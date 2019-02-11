@@ -575,7 +575,7 @@
     color: transparent; }
     /* Placeholder text color. */
     ._39LWd {
-      color: var(--lighter) !important; }
+      color: #909090 !important; }
     /* On event smoothness. */
     .pluggable-input.pluggable-input-compose > div:first-child {
       transition: 150ms ease-in-out !important; }
