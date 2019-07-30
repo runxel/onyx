@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name         WhatsApp Dark »Ony«
+@name         WhatsApp Dark »Onyx«
 @description  A customizable theme for WhatsApp.
 @namespace    github.com/runxel/onyx
 @homepageURL  https://github.com/runxel/onyx
@@ -573,8 +573,11 @@
     ._3jzsh {
       background-color: var(--darker) !important; }
     /* Text colors. */
-    ._3jzsh ._3GIEC, ._3jzsh ._6xQdq {
+    ._3jzsh ._3GIEC, ._3jzsh ._6xQdq, ._1FWQp {
       color: var(--lighter) !important; }
+    /* Sprachnachricht duration color */
+    ._1FWQp {
+      color: var(--light) !important; }
 
     /* Jump to present button. */
     ._3KRbU {
